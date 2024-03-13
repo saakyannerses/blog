@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/saakyannerses/saakyannerses.github.io
+	branch = main

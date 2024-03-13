@@ -1,17 +1,6 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+title: Саакян Нерсес
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - футбол
+  - рестораны
+  - девушки
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Среднее общее образование
+      institution: Школа лицей №34
+      year: 2023
+    - course: Бакалавриат.Бизнес-информатика
+      institution: Российский университет дружбы народов
+      year: 2027
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Саакян Нерсес - родился 08.05.2005г в Армении.Студент бакалавриата Российского университета дружбы народов.Учусь на направлении бизнес-информатика.До поступления в институт окончил Московский лицей №34.Из достижений самый красивый молодой человек на свете и хароооши человек.
 {style="text-align: justify;"}
